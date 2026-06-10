@@ -134,12 +134,12 @@
   init();
 </script>
 
-<div class="my-6 prose lg:prose-xl">
+<div class="my-6 prose">
   <h1>Scouts memory game</h1>
   <p>Tap or click the cards to find the matching pairs.</p>
 </div>
 
-<div class="my-6 grid grid-cols-4 gap-2 sm:gap-6">
+<div class="my-6 grid grid-cols-3 gap-2 sm:grid-cols-4 sm:gap-6">
   {#each cards as card, index (card.id)}
     <CardComponent
       back={backImage}
