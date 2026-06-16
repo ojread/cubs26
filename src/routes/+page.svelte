@@ -135,7 +135,7 @@
 </script>
 
 <div class="prose">
-  <h1>1st Wickham Beavers Game</h1>
+  <h1>1st Wickham Cubs Game</h1>
   <!-- <p>Tap or click the cards to find the matching pairs.</p> -->
 </div>
 
